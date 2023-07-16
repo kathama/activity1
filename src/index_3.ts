@@ -1,0 +1,1 @@
+let animals: string[] = ['dog', 'cat', 'horse', 'dolphin', 'elephant', 'pig', 'cow', 'tiger', 'lion', 'bear'];
